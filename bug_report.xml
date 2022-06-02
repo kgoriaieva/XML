@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <title>The field Phone in Personal Account accepts invalid data</title>
-<STR>1.Open the Personal Account page 2.Put the text value in the field Phone 3.Click Save</STR>
+<STR>
+   <ol>
+   <li>Open the Personal Account page</li>
+   <li>Put the text value in the field Phone</li>
+   <li>Click Save<</li>
+  </ol>
+ </STR>
 <R>The field Phone accepts text value</R>
 <ER>The field Phone should accept just numerical value</ER>
 <Severity>2</Severity>
