@@ -1,4 +1,4 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
 <title>The field Phone in Personal Account accepts invalid data</title>
 <STR>1.Open the Personal Account page 2.Put the text value in the field Phone 3.Click Save</STR>
 <R>The field Phone accepts text value</R>
