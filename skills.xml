@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<1>Communication</1>
-<2>Negotiation and persuation</2>
-<3>Problem solving</3>
-<4>Organisation</4>
-<5>Motivation</5>
-<6>Analitical skills</6>
+<body>
+   <ol>
+   <li>Communication</li>
+   <li>Negotiation and persuation</li>
+   <li>Problem solving</li>
+     <li>Organisation</li>
+     <li>Motivation</li>
+     <li>Analitical skills</li>
+  </ol>
+</body>
